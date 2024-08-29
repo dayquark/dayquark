@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dayquark
-- 👀 I’m interested in machine learning, data science, web development
+- 👀 I’m interested in artificial intelligence, data science, web development and "ancient" programming languages (such as Pascal, Fortran, Lisp ect)
 
 <!---
 dayquark/dayquark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
